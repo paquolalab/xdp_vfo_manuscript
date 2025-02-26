@@ -22,18 +22,10 @@ This repository is under development.
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240520_AL5RACE002/analysis/pod5/base_calling/align/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240520_AL5RACE002/analysis/pod5/base_calling/align/_h/run.sh) |
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240520_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240520_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh) |
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240520_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_20240520_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_20240529_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240529_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_20240529_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_20240529_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb) |
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240530_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240530_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh) |
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240530_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_20240530_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_20240605_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240605_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_20240605_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_20240605_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb) |
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240606_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240606_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh) |
 | Figure 4B | [xdp_5RACE_nanopore_sequencing_20240606_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_20240606_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_20240510_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_20240510_AL5RACE002/analysis/pod5/base_calling/align/report/_h/run.sh) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_20240510_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_20240510_AL5RACE002/analysis/pod5/base_calling/align/report/_m/report.ipynb) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_report_all_samples/analysis/report/_h/run.sh](xdp_5RACE_nanopore_sequencing_report_all_samples/analysis/report/_h/run.sh) |
-| Figure 4B | [xdp_5RACE_nanopore_sequencing_report_all_samples/analysis/report/_m/report.ipynb](xdp_5RACE_nanopore_sequencing_report_all_samples/analysis/report/_m/report.ipynb) |
 | Figure 4D | [sva_expression_brain_longr/download_data/_h/run.sh](sva_expression_brain_longr/download_data/_h/run.sh) |
 | Figure 4D | [sva_expression_brain_longr/download_data/align/coverage_filtered/_h/run.sh](sva_expression_brain_longr/download_data/align/coverage_filtered/_h/run.sh) |
 | Figure 4D | [sva_expression_brain_longr/download_data/align/coverage_filtered/gen_matrices/_h/run.sh](sva_expression_brain_longr/download_data/align/coverage_filtered/gen_matrices/_h/run.sh) |
@@ -112,4 +104,4 @@ This repository is under development.
 | Table S8 | [sva_expression_brain_longr/download_data/align/coverage_filtered/gen_matrices/plots/_m/02_sva_cats_and_enrichment.ipynb](sva_expression_brain_longr/download_data/align/coverage_filtered/gen_matrices/plots/_m/02_sva_cats_and_enrichment.ipynb) |
 
 
-Autobuild date: Wed Feb 26 12:43:24 PM EST 2025
+Autobuild date: Wed Feb 26 02:44:49 PM EST 2025
