@@ -3,8 +3,6 @@
 
 Find below a list of scripts and notebooks used to generate results (Figures and Tables) in the study entitled "A hexamer tandem repeat RNA embedded within an SVA retrotransposon drives R-loop formation and neurodegeneration." Each Figure or Table is accompanied by the link to relevant files in this repository.   
 
-This repository is under development.
-
 | Figure_or_Table | File_path |
 | --- | --- |
 | Figure 2B | [xdp_striatal_organoids_RNA-seq/analysis_speaqeasy/deseq2_multiplemodels_genes_no_lfcShrink_filter_low/_m/main.ipynb](xdp_striatal_organoids_RNA-seq/analysis_speaqeasy/deseq2_multiplemodels_genes_no_lfcShrink_filter_low/_m/main.ipynb) |
